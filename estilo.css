@@ -1,0 +1,67 @@
+.secao1 {
+    background-color: aqua;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+
+}
+
+.menu {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.banner {
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.Sobre {
+    text-align: center;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.serviço {
+    color: yellow;
+}
+
+.secao3 {
+    background-color: aqua;
+    text-align: center;
+}
+
+.opcao {
+   width: 300px;
+   line-height: 25px;
+   text-align: center;
+}
+
+.secao4 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.secao5 {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 10px;
+}
+
+.destaque {
+    background-color: black;
+    color: aliceblue;
+}
+
+.contato {
+    color: yellow;
+    padding-bottom: 15px;
+}
